@@ -1,0 +1,9 @@
+velocidad y eficiencia : es mas rapido poder ejecutar los comandos en la terminal que estar dando click en ella 
+mas que todo tambien puedes hacer la carpeta desde dicha terminal y los datos no solo eso si no mirar 
+ el estado de la carpeta , donde vino. la hora y quien lo hizo junto con su fecha con su respectivo comando
+ls- y para mas como didad desde la terminal puedes subirlo a github donde puedes ver todos los cambios que haces en
+tiempo real .
+control y automatizacion puedes ejecutar comandos para que hagan la limpieza de 
+carpetas o de mover archivos temporales por medio de comandos como scripts de bash
+y permite ver y gestionar archivos esenciales
+es esencial saber que por medio de esta herramienta se enseña saberse mover por carpetas terminales y ramas o resolver conflictos de codigo

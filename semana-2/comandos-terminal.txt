@@ -1,0 +1,14 @@
+cd basktop 
+cd programadores_para_la_paz
+mkdir semana-2
+cd semana-2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+git commit
+git add
+git commit -m "actividad semana 2"
+ls
+git status
+git push -u origin master
+pwd
