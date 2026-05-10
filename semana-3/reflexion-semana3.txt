@@ -1,0 +1,19 @@
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+
+pueden ver con exactitud la persona que hizo los cambios la hora el día siendo algo muy detallado (historial)
+haciendo posible el trabajo en comunidad y mejorando dicho trabajo de colaboración.
+
+subiendo el trabajo al repositorio  y modificarlo en conjunto con los comandos de la terminal (git bash) teniendo en cuenta los puntos de vista de cada persona,
+Es un  proceso inteligente y organizativo de los archivos correspondientes.
+
+se pueden usar hasta dos ramas (branches) de trabajo así dejando el trabajo principal (rama master/main) intenta y modificar el otro a gusto.
+Con muchos comando como ( git init , git add , git push , cd ~/desktop/, git "commit" ,git clone ,git status, ls ,cd ..) 
+
+Con Seguridad y recuperación de los programas teniendo un respaldo que permite trabajar con confianza y una mejora continua al saber que los archivos, 
+si se dañan se pueden recuperar con los comandos ( reset o checkout ) volviendo a una versión antes del daño.
+ 
+
+
+
+
+
