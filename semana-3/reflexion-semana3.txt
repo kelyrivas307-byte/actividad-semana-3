@@ -11,9 +11,3 @@ Con muchos comando como ( git init , git add , git push , cd ~/desktop/, git "co
 
 Con Seguridad y recuperación de los programas teniendo un respaldo que permite trabajar con confianza y una mejora continua al saber que los archivos, 
 si se dañan se pueden recuperar con los comandos ( reset o checkout ) volviendo a una versión antes del daño.
- 
-
-
-
-
-
