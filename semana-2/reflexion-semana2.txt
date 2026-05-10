@@ -6,4 +6,4 @@ tiempo real .
 control y automatización puedes ejecutar comandos para que hagan la limpieza de 
 carpetas o de mover archivos temporales por medio de comandos como scripts de bash
 y permite ver y gestionar archivos esenciales
-es esencial saber que por medio de esta herramienta se enseña saberse mover por carpetas terminales y ramas o resolver conflictos de código
+es esencial saber que por medio de esta herramienta se enseña saberse mover por carpetas terminales y ramas o resolver conflictos de código.
