@@ -1,0 +1,11 @@
+¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?
+
+Los jovenes cada uno debería aprender a programar con node.js así hacen su propia pagina web y no solo eso 
+sirve para su propio negocio o para la comunidad  manteniendo informado dicha comunidad teniendo un
+impacto positivo para las juventudes y la propia comunidad dando espacios de aprendizajes de dicho contenido 
+y creación de paginas  y los idiomas de programación o códigos  respectivo para hacer funcionar un server una 
+pagina web o una aplicación de móvil o de pc así potenciando tu negocio y el de tu comunidad con tu pagina de ventas
+y el de las personas que te rodean así se benefician todos.
+
+Ayudando a que cada joven del barrio o de la comuna aprenda a programar y dirigir su propio futuro y sueños creando 
+lo que les gusta y potenciando su labor o su trabajo y su hoja de vida 
