@@ -1,0 +1,14 @@
+Prueba 1:
+Ruta: http://localhost:3000
+Resultado:
+El servidor responde con el mensaje "Servidor activo", indicando que el servidor funciona correctamente.
+
+Prueba 2:
+Ruta: http://localhost:3000/saludo
+Resultado:
+El servidor responde con el mensaje "Hola comunidad".
+
+Prueba 3:
+Ruta: http://localhost:3000/mensaje/juan
+Resultado:
+El servidor recibe el parámetro "juan" desde la URL y responde con el mensaje "Hola juan

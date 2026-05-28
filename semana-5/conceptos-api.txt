@@ -1,0 +1,10 @@
+Qué hace esta ruta:
+Una ruta identifica la acción del usuario y ejecuta el código necesario para mostrar la página web. Esto permite que, al conectar la terminal con el navegador mediante una dirección como http://localhost:3000, podamos revisar que todo esté funcionando correctamente o realizar las modificaciones que necesitemos".
+
+
+Para qué podría servir en una aplicación comunitaria: 
+sirve para informar sobre cosas que pasan en el barrio o también
+para oportunidades laborales y cursos o inscripciones al Sena  y ayuda en general como exámenes o todo tipo de 
+situaciones  o la reconstrucción de ciertos lugares de la comunidad que son libres para todo publico o
+pintar un parque o hacer una huerta comunitaria  o sancochada y no solo eso si no que sirve para que la comunidad 
+este mas unidad y que escuchen a los jovenes que sepan usar la aplicación y les enseñen a usarla a los adultos mayores 
